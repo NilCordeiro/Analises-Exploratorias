@@ -1,6 +1,6 @@
-# Portfolio_Data_Science
+# Análises Exploratoria com Python
 
-Esse repositorio é para mostrar trabalhos voltados para data science um portfolio com as seguintes pastas de trabalho:
+Este repositorio é para mostrar análses com a linquangem python 
 
 <ul>
   <li>Projeto de dados sobre finanaças 
